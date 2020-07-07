@@ -1,4 +1,4 @@
-package com.example.baazar
+package com.example.kranti
 
 import io.flutter.embedding.android.FlutterActivity
 

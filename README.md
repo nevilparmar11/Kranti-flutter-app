@@ -1,4 +1,4 @@
-# baazar
+# kranti
 
 A new Flutter project.
 
