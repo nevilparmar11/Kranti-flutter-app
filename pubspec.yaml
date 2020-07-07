@@ -14,6 +14,12 @@ dependencies:
   cupertino_icons: ^0.1.3
   shared_preferences:
   intro_slider:
+  google_sign_in:
+  firebase_core: 
+  firebase_messaging:
+  firebase_auth: 
+  cloud_firestore: 
+  firebase_storage:
 
 dev_dependencies:
   flutter_test:

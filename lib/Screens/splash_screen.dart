@@ -64,14 +64,17 @@ class _SplashScreenState extends State<SplashScreen> {
                 backgroundColor: Colors.white,
               ),
               Padding(
-                padding: EdgeInsets.only(bottom: 35.0),
+                padding: EdgeInsets.only(bottom: 23.0),
               ),
               Text(
-                "KRANTI",
+                "THE FAMILY FARM",
                 style: TextStyle(
                     color: Colors.white,
                     fontSize: 20.0,
                     fontWeight: FontWeight.w700),
+              ),
+              Padding(
+                padding: EdgeInsets.only(bottom: 8.0),
               ),
             ],
           )

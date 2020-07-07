@@ -1,4 +1,4 @@
-package com.example.kranti
+package com.kranti.kranti
 
 import io.flutter.embedding.android.FlutterActivity
 
