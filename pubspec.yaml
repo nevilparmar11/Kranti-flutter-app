@@ -20,6 +20,11 @@ dependencies:
   firebase_auth: 
   cloud_firestore: 
   firebase_storage:
+  gradient_app_bar:
+  url_launcher:
+  cached_network_image:
+  numeric_keyboard:
+  empty_widget:
 
 dev_dependencies:
   flutter_test:

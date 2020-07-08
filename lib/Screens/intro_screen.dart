@@ -19,13 +19,13 @@ class _intro_screenState extends State<intro_screen> {
 
     slides.add(
       Slide(
-        title: "Interactive Sessions",
+        title: "Feature Name - 1",
         styleTitle: TextStyle(
             color: Colors.white,
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'QuickSandBold'),
-        description: "Share your ideas with your friends and collegues.",
+        description: "Example Feature details - 1",
         styleDescription: TextStyle(
             color: Colors.white, fontSize: 20.0, fontFamily: 'QuickSandLight'),
         pathImage: "assets/images/grains.png",
@@ -34,13 +34,13 @@ class _intro_screenState extends State<intro_screen> {
     );
     slides.add(
       Slide(
-        title: "Exciting Events",
+        title: "Feature Name - 2",
         styleTitle: TextStyle(
             color: Colors.white,
             fontSize: 30.0,
             fontWeight: FontWeight.bold,
             fontFamily: 'QuickSandBold'),
-        description: "Be a part of exclusive events coming up in your timeline",
+        description: "Example Feature Details - 2",
         styleDescription: TextStyle(
             color: Colors.white, fontSize: 20.0, fontFamily: 'QuickSandLight'),
         pathImage: "assets/images/grains.png",
@@ -49,7 +49,7 @@ class _intro_screenState extends State<intro_screen> {
     );
     slides.add(
       Slide(
-        title: "Marks Predictor",
+        title: "Feature Name - 3",
         styleTitle: TextStyle(
           color: Colors.white,
           fontSize: 30.0,
@@ -57,8 +57,7 @@ class _intro_screenState extends State<intro_screen> {
           fontFamily: 'QuickSandBold',
         ),
         pathImage: "assets/images/grains.png",
-        description:
-            "Prepare yourself for the better furture \n Predict your marks in advance \n & \n achieve your Goal",
+        description: "Example Feature Details 3",
         styleDescription: TextStyle(
             color: Colors.white, fontSize: 20.0, fontFamily: 'QuickSandLight'),
         backgroundColor: MyColors.primaryColor,
@@ -73,7 +72,7 @@ class _intro_screenState extends State<intro_screen> {
           fontWeight: FontWeight.bold,
           fontFamily: 'QuickSandBold',
         ),
-        pathImage: "assets/images/grains.png",
+        pathImage: "assets/images/terms.png",
         description:
             "You agree or not, \n Hit Next !! \n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         styleDescription: TextStyle(
